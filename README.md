@@ -14,4 +14,6 @@ Each item is a list of 2 elements:
 
 Finally you need to just copy pase the whole code in the console of page of the test data in dmog and it will fill them automaticall!
 
+To delete subtasks, use the code in `delete_all_subtasks.js` to the console and it will select all the subtasks remove button.
+
 Don't forget to star the project if it helped you! 
