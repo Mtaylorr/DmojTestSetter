@@ -9,7 +9,7 @@ This repo automates creating subtasks in [dmoj]([https://link-url-here.org](http
 You need to update the list called tests in `test_setter.js`, every item of the list contains a subtask. 
 
 Each item is a list of 2 elements: 
-- The first element is an array of the input file name of the subtask
+- The first element is an array of the input file names of the subtask
 - The second element is the points awarded to the subtask
 
 Finally you need to just copy pase the whole code in the console of page of the test data in dmog and it will fill them automaticall!
